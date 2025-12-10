@@ -1,3 +1,6 @@
 [submodule "CodeAlpha_Simple_E-commerce_Store"]
 	path = CodeAlpha_Simple_E-commerce_Store
 	url = https://github.com/Souvik313/CodeAlpha_Simple_E-commerce_Store.git
+[submodule "CodeAlpha_Social_Media_Platform"]
+	path = CodeAlpha_Social_Media_Platform
+	url = https://github.com/Souvik313/CodeAlpha_Social_Media_Platform.git
